@@ -1,0 +1,9 @@
+transformers
+pandas
+torch
+spacy
+gensim
+sentence_transformers
+nltk
+bert-extractive-summarizer
+sumy
